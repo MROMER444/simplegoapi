@@ -1,4 +1,4 @@
-Simple Go API
+**Simple Go API
 
 This project is a simple RESTful API written in Go using the Gin web framework. The API provides endpoints for managing members, performing basic mathematical operations, and checking user inputs.
 Table of Contents
